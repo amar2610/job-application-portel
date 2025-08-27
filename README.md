@@ -8,8 +8,8 @@ A Node.js + Express + MySQL based application for managing job applications.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/job-application-portal.git
-    cd job-application-portal
+    git clone https://github.com/amar2610/job-application-portel.git
+    cd job-application-portel
     ```
 2. Install dependencies:
    npm install
